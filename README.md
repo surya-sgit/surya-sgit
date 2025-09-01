@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Surya Prakash Baid!    
 
-Welcome to my GitHub profile! I'm a **Data Science Enthusiast** and **Machine Learning Practitioner** with a background in Civil Engineering. I’m passionate about solving real-world problems with data-driven solutions. 🚀  
+Welcome to my GitHub profile!
+I’m a Data Science Enthusiast and Machine Learning Practitioner passionate about building data-driven solutions to tackle real-world challenges. 🚀  
 
 ---
 
