@@ -19,7 +19,7 @@ I’m a **Data Science Enthusiast** and **Machine Learning Practitioner** passio
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
 
-### ⚡ Deployment & Tools  
+### ⚡Frameworks & Tools  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -39,18 +39,35 @@ I’m a **Data Science Enthusiast** and **Machine Learning Practitioner** passio
 
 ## 🌱 Currently Exploring  
 
-- 📊 Advanced **Causal Inference** in Data Science  
-- 🤖 **Generative AI & LLMs (Transformers, RAG, Agents, Chatbots)**  
-- 💹 **Finance-focused AI applications**  
+- 🤖 Building and experimenting with **Agentic AI systems**  
+- 💹 Learning and applying **AI in Finance** (portfolio optimization, market prediction)  
+- 📚 Expanding expertise in **Generative AI & LLMs** for real-world applications  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surya-sgit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sgit&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=surya-sgit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sgit&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=surya-sgit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=surya-sgit&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-sgit&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -59,7 +76,6 @@ I’m a **Data Science Enthusiast** and **Machine Learning Practitioner** passio
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:suryaa.baid@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/suryaprakashbaid)
-
 
 ---
 
