@@ -37,7 +37,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **⚖️ LegalBuddy** | AI-powered legal assistant for Indian laws using **RAG** with reduced hallucinations via corrective techniques. | `RAG` `ChromaDB` `FastAPI` `LLMs` |
+| **⚖️ LegalBuddy** | AI-powered legal assistant for Indian laws using **RAG** with reduced hallucinations via corrective techniques. | `RAG` `Pinecone` `FastAPI` `CRAG` `Next.js` |
 | **🚗 License Plate Detection** | Real-time vehicle number plate recognition system with **mAP@0.5 of 0.91**. Deployed for ease of use. | `YOLO` `PaddleOCR` `Streamlit` |
 | **🏠 Bangalore Housing** | Applied advanced regression models for real-estate price prediction with high accuracy. | `Regression` `Scikit-Learn` `Python` |
 
