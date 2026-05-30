@@ -55,6 +55,11 @@
   <a href="https://github.com/surya-sgit">
     <img src="https://streak-stats.demolab.com?user=surya-sgit&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </a>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-sgit&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
 </div>
 ---
 
